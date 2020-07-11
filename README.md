@@ -1,6 +1,6 @@
 # Mi Card
 
-Mi Card is a personal business card, integrated into an app.
+Mi Card is a personal business card, integrated into an app. I learned how to code this app from Module 6 of the free Flutter development course at https://www.appbrewery.co/courses/intro-to-flutter.
 
 ## Things learned from this module
 
@@ -13,6 +13,8 @@ Mi Card is a personal business card, integrated into an app.
 * How to style Text widgets
 * How to read and use Flutter Documentation
 
+## An image of Mi Card
+![an image of the code associated with the mi card](https://github.com/shaquilledavid/Mi_Card/blob/master/images/micard.jpg?raw=true)
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
